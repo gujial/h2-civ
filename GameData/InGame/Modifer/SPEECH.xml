@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPEECH -->
+<!-- Author: gu186 -->
+<!-- DateCreated: 12/23/2022 3:43:18 PM -->
+<GameInfo>
+	<TraitModifiers>
+		<Row>
+			<TraitType>TRAIT_LEADER_YUDIN_ZHOU_SPEECH</TraitType>
+			<ModifierId>MODIFIER_SPEECH</ModifierId>
+		</Row>
+	</TraitModifiers>
+	<Modifiers>
+		<Row>
+			<ModifierId>MODIFIER_SPEECH</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_BUILDER_CHARGES</ModifierType>
+			<SubjectRequirementSetId>ReqSet</SubjectRequirementSetId>
+		</Row>
+	</Modifiers>
+	<ModifierArguments>
+		<Row>
+			<ModifierId>MODIFIER_SPEECH</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+	</ModifierArguments>
+	<!-- =============== RequirementSets =============== -->
+	<RequirementSets>
+		<Row>
+			<RequirementSetId>ReqSet</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+	</RequirementSets>
+	<RequirementSetRequirements>
+		<Row>
+			<RequirementSetId>ReqSet</RequirementSetId>
+			<RequirementId>REQ_69RIHZVS</RequirementId>
+		</Row>
+	</RequirementSetRequirements>
+	<!-- +++++++++++++++ Requirements +++++++++++++++ -->
+	<Requirements>
+		<Row>
+			<RequirementId>REQ_69RIHZVS</RequirementId>
+			<RequirementType>REQUIREMENT_UNIT_TYPE_MATCHES</RequirementType>
+		</Row>
+	</Requirements>
+	<RequirementArguments>
+		<Row>
+			<RequirementId>REQ_69RIHZVS</RequirementId>
+			<Name>UnitType</Name>
+			<Value>UNIT_BUILDER</Value>
+		</Row>
+	</RequirementArguments>
+</GameInfo>

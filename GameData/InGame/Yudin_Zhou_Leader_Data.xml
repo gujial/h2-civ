@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Yudin_Zhou_Leader_Data -->
+<!-- Author: gu186 -->
+<!-- DateCreated: 12/21/2022 8:41:55 PM -->
+<GameData>
+	<Types>
+		<Row Type="LEADER_YUDIN_ZHOU" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_YUDIN_ZHOU_SPEECH" Kind="KIND_TRAIT"/>
+	</Types>
+	<Leaders>
+		<Row LeaderType="LEADER_YUDIN_ZHOU" Name="LOC_LEADER_YUDIN_ZHOU_NAME" InheritFrom="LEADER_DEFAULT" Sex="Male"/>
+	</Leaders>
+	<LeaderQuotes>
+		<Row LeaderType="LEADER_YUDIN_ZHOU" Quote="LOC_LEADER_YUDIN_ZHOU_QUOTE"/>
+	</LeaderQuotes>
+	<Traits>
+		<Row TraitType="TRAIT_LEADER_YUDIN_ZHOU_SPEECH" Name="LOC_TRAIT_LEADER_YUDIN_ZHOU_SPEECH_NAME" Description="LOC_TRAIT_LEADER_YUDIN_ZHOU_SPEECH_DESCRIPTION"/>
+	</Traits>
+	<LeaderTraits>
+		<Row LeaderType="LEADER_YUDIN_ZHOU" TraitType="TRAIT_LEADER_YUDIN_ZHOU_SPEECH"/>
+	</LeaderTraits>
+	<LoadingInfo>
+		<Row LeaderType="LEADER_YUDIN_ZHOU" ForegroundImage="ICON_LEADER_YUDIN_ZHOU_PORTRAIT_.dds" BackgroundImage="ICON_LOADING_INFO_LEADER_YUDIN_ZHOU_BACKGROUND_.dds" PlayDawnOfManAudio="0" EraText="LOC_ERA_LEADER_YUDIN_ZHOU" LeaderText="LOC_LOADING_INFO_LEADER_YUDIN_ZHOU"/>
+	</LoadingInfo>
+	<DiplomacyInfo>
+		<Row Type="LEADER_YUDIN_ZHOU" BackgroundImage="ICON_DIPLOMACY_INFO_LEADER_YUDIN_ZHOU_BACKGROUND_.dds"/>
+	</DiplomacyInfo>
+	<PlayerColors>
+		<Row>
+			<Type>LEADER_YUDIN_ZHOU</Type>
+			<Usage>Unique</Usage>
+			<PrimaryColor>COLOR_STANDARD_ORANGE_DK</PrimaryColor>
+			<SecondaryColor>COLOR_STANDARD_WHITE_LT</SecondaryColor>
+		</Row>
+	</PlayerColors>
+</GameData>

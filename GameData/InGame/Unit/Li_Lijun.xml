@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Li_Lijun -->
+<!-- Author: gu186 -->
+<!-- DateCreated: 12/22/2022 8:44:34 AM -->
+<GameData>
+	<Types>
+		<Row Type="UNIT_LI_LIJUN" Kind="KIND_UNIT"/>
+	</Types>
+	<UnitAiInfos>
+		<Row UnitType="UNIT_LI_LIJUN" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_LI_LIJUN" AiType="UNITTYPE_LAND_COMBAT"/>
+		<Row UnitType="UNIT_LI_LIJUN" AiType="UNITTYPE_RANGED"/>
+	</UnitAiInfos>
+	<TypeTags>
+		<Row Type="UNIT_LI_LIJUN" Tag="CLASS_RANGED"/>
+	</TypeTags>
+	<UnitUpgrades>
+		<Row Unit="UNIT_LI_LIJUN" UpgradeUnit="UNIT_CROSSBOWMAN"/>
+	</UnitUpgrades>
+	<UnitReplaces>
+		<Row CivUniqueUnitType="UNIT_LI_LIJUN" ReplacesUnitType="UNIT_ARCHER"/>
+	</UnitReplaces>
+	<Units>
+		<Row UnitType="UNIT_LI_LIJUN" TraitType="TRAIT_LI_LIJUN" Cost="50" BaseMoves="4" RangedCombat="35" FormationClass="FORMATION_CLASS_LAND_COMBAT" Maintenance="1" MandatoryObsoleteTech="TECH_BALLISTICS" Name="LOC_UNIT_LI_LIJUN_NAME" Description="LOC_UNIT_LI_LIJUN_DESCRIPTION" Range="3" LeaderType="LEADER_YUDIN_ZHOU" Combat="25" Domain="DOMAIN_LAND" PurchaseYield="YIELD_GOLD" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="3" PrereqTech="TECH_ARCHERY" PromotionClass="PROMOTION_CLASS_RANGED"/>
+	</Units>
+</GameData>

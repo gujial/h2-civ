@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Li_Jian -->
+<!-- Author: gu186 -->
+<!-- DateCreated: 12/22/2022 8:45:12 AM -->
+<GameData>
+	<Types>
+		<Row Type="UNIT_LI_JIAN" Kind="KIND_UNIT"/>
+	</Types>
+	<UnitAiInfos>
+		<Row UnitType="UNIT_LI_JIAN" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_LI_JIAN" AiType="UNITTYPE_LAND_COMBAT"/>
+		<Row UnitType="UNIT_LI_JIAN" AiType="UNITTYPE_MELEE"/>
+	</UnitAiInfos>
+	<TypeTags>
+		<Row Type="UNIT_LI_JIAN" Tag="CLASS_MELEE"/>
+	</TypeTags>
+	<UnitUpgrades>
+		<Row Unit="UNIT_LI_JIAN" UpgradeUnit="UNIT_MAN_AT_ARMS"/>
+	</UnitUpgrades>
+	<UnitReplaces>
+		<Row CivUniqueUnitType="UNIT_LI_JIAN" ReplacesUnitType="UNIT_SWORDSMAN"/>
+	</UnitReplaces>
+	<Units>
+		<Row UnitType="UNIT_LI_JIAN" TraitType="TRAIT_LI_JIAN" Cost="80" BaseMoves="3" FormationClass="FORMATION_CLASS_LAND_COMBAT" Maintenance="2" MandatoryObsoleteTech="TECH_REPLACEABLE_PARTS" Name="LOC_UNIT_LI_JIAN_NAME" Description="LOC_UNIT_LI_JIAN_DESCRIPTION" Combat="45" ZoneOfControl="1" Domain="DOMAIN_LAND" PurchaseYield="YIELD_GOLD" StrategicResource="RESOURCE_IRON" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="3" PrereqTech="TECH_IRON_WORKING" PromotionClass="PROMOTION_CLASS_MELEE"/>
+	</Units>
+</GameData>

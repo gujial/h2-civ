@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Fen_Chen -->
+<!-- Author: gu186 -->
+<!-- DateCreated: 12/22/2022 8:44:51 AM -->
+<GameData>
+	<Types>
+		<Row Type="UNIT_FEN_CHEN" Kind="KIND_UNIT"/>
+	</Types>
+	<UnitAiInfos>
+		<Row UnitType="UNIT_FEN_CHEN" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_FEN_CHEN" AiType="UNITTYPE_LAND_COMBAT"/>
+		<Row UnitType="UNIT_FEN_CHEN" AiType="UNITTYPE_RANGED"/>
+	</UnitAiInfos>
+	<TypeTags>
+		<Row Type="UNIT_FEN_CHEN" Tag="CLASS_RANGED"/>
+	</TypeTags>
+	<UnitUpgrades>
+		<Row Unit="UNIT_FEN_CHEN" UpgradeUnit="UNIT_LI_LIJUN"/>
+	</UnitUpgrades>
+	<UnitReplaces>
+		<Row CivUniqueUnitType="UNIT_FEN_CHEN" ReplacesUnitType="UNIT_SLINGER"/>
+	</UnitReplaces>
+	<Units>
+		<Row UnitType="UNIT_FEN_CHEN" TraitType="TRAIT_FEN_CHEN" Cost="30" BaseMoves="3" RangedCombat="25" FormationClass="FORMATION_CLASS_LAND_COMBAT" MandatoryObsoleteTech="TECH_ARCHERY" Name="LOC_UNIT_FEN_CHEN_NAME" Description="LOC_UNIT_FEN_CHEN_DESCRIPTION" Range="2" LeaderType="LEADER_YUDIN_ZHOU" Combat="15" Domain="DOMAIN_LAND" PurchaseYield="YIELD_GOLD" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="3" PromotionClass="PROMOTION_CLASS_RANGED"/>
+	</Units>
+</GameData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Improvements_Icons -->
+<!-- Author: gu186 -->
+<!-- DateCreated: 12/23/2022 9:00:43 PM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row Name="ATLAS_ICON_IMPROVEMENT_HONEST_SHOP" IconSize="38" Filename="ICON_IMPROVEMENT_HONEST_SHOP_38"/>
+		<Row Name="ATLAS_ICON_IMPROVEMENT_HONEST_SHOP" IconSize="50" Filename="ICON_IMPROVEMENT_HONEST_SHOP_50"/>
+		<Row Name="ATLAS_ICON_IMPROVEMENT_HONEST_SHOP" IconSize="80" Filename="ICON_IMPROVEMENT_HONEST_SHOP_80"/>
+		<Row Name="ATLAS_ICON_IMPROVEMENT_HONEST_SHOP" IconSize="256" Filename="ICON_IMPROVEMENT_HONEST_SHOP_256"/>
+	</IconTextureAtlases>
+	<IconDefinitions>
+		<Row Name="ICON_IMPROVEMENT_HONEST_SHOP" Atlas="ATLAS_ICON_IMPROVEMENT_HONEST_SHOP" Index="0"/>
+	</IconDefinitions>
+</GameData>

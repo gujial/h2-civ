@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Shi_Wei -->
+<!-- Author: gu186 -->
+<!-- DateCreated: 12/22/2022 8:45:25 AM -->
+<GameData>
+	<Types>
+		<Row Type="UNIT_SHI_WEI" Kind="KIND_UNIT"/>
+	</Types>
+	<UnitAiInfos>
+		<Row UnitType="UNIT_SHI_WEI" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_SHI_WEI" AiType="UNITTYPE_LAND_COMBAT"/>
+		<Row UnitType="UNIT_SHI_WEI" AiType="UNITTYPE_MELEE"/>
+	</UnitAiInfos>
+	<TypeTags>
+		<Row Type="UNIT_SHI_WEI" Tag="CLASS_MELEE"/>
+	</TypeTags>
+	<UnitUpgrades>
+		<Row Unit="UNIT_SHI_WEI" UpgradeUnit="UNIT_LI_JIAN"/>
+	</UnitUpgrades>
+	<UnitReplaces>
+		<Row CivUniqueUnitType="UNIT_SHI_WEI" ReplacesUnitType="UNIT_WARRIOR"/>
+	</UnitReplaces>
+	<Units>
+		<Row UnitType="UNIT_SHI_WEI" TraitType="TRAIT_SHI_WEI" Cost="35" BaseMoves="3" FormationClass="FORMATION_CLASS_LAND_COMBAT" MandatoryObsoleteTech="TECH_GUNPOWDER" Name="LOC_UNIT_SHI_WEI_NAME" Description="LOC_UNIT_SHI_WEI_DESCRIPTION" Combat="30" AdvisorType="ADVISOR_CONQUEST" Domain="DOMAIN_LAND" LeaderType="LEADER_YUDIN_ZHOU" PurchaseYield="YIELD_GOLD" ZoneOfControl="1" BaseSightRange="2" PromotionClass="PROMOTION_CLASS_MELEE"/>
+	</Units>
+</GameData>

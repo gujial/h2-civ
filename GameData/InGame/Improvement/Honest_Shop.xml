@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Honest_Shop -->
+<!-- Author: gu186 -->
+<!-- DateCreated: 12/22/2022 8:44:06 AM -->
+<GameData>
+	<Types>
+		<Row Type="IMPROVEMENT_HONEST_SHOP" Kind="KIND_IMPROVEMENT"/>
+	</Types>
+	<Improvements>
+		<Row ImprovementType="IMPROVEMENT_HONEST_SHOP" Buildable="1" Name="LOC_IMPROVEMENT_HONEST_SHOP_NAME" TraitType="TRAIT_HONEST_SHOP" YieldFromAppeal="YIELD_GOLD" Icon="ICON_IMPROVEMENT_HONEST_SHOP" Description="LOC_IMPROVEMENT_HONEST_SHOP_DESCRIPTION" PlunderType="PLUNDER_GOLD" PlunderAmount="50"/>
+	</Improvements>
+	<Improvement_YieldChanges>
+		<Row ImprovementType="IMPROVEMENT_HONEST_SHOP" YieldType="YIELD_GOLD" YieldChange="3"/>
+	</Improvement_YieldChanges>
+	<Improvement_ValidTerrains>
+		<Row ImprovementType="IMPROVEMENT_HONEST_SHOP" TerrainType="TERRAIN_DESERT"/>
+		<Row ImprovementType="IMPROVEMENT_HONEST_SHOP" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_HONEST_SHOP" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_HONEST_SHOP" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_HONEST_SHOP" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_HONEST_SHOP" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_HONEST_SHOP" TerrainType="TERRAIN_TUNDRA"/>
+		<Row ImprovementType="IMPROVEMENT_HONEST_SHOP" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+	</Improvement_ValidTerrains>
+	<Improvement_ValidBuildUnits>
+		<Row ImprovementType="IMPROVEMENT_HONEST_SHOP" UnitType="UNIT_BUILDER"/>
+	</Improvement_ValidBuildUnits>
+	<Improvement_Adjacencies>
+		<Row ImprovementType="IMPROVEMENT_HONEST_SHOP" YieldChangeId="HONEST_SHOP_GOLD"/>
+	</Improvement_Adjacencies>
+	<Adjacency_YieldChanges>
+		<Row ID="HONEST_SHOP_GOLD" AdjacentImprovement="IMPROVEMENT_HONEST_SHOP" YieldChange="1" YieldType="YIELD_GOLD" Description="Placeholder"/>
+	</Adjacency_YieldChanges>
+</GameData>

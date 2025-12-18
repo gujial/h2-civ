@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Teaching_Building -->
+<!-- Author: gu186 -->
+<!-- DateCreated: 12/22/2022 8:43:21 AM -->
+<GameData>
+	<Types>
+		<Row Type="DISTRICT_TEACHING_BUILDING" Kind="KIND_DISTRICT"/>
+	</Types>
+	<DistrictReplaces>
+		<Row CivUniqueDistrictType="DISTRICT_TEACHING_BUILDING" ReplacesDistrictType="DISTRICT_CAMPUS"/>
+	</DistrictReplaces>
+	<Districts>
+		<Row DistrictType="DISTRICT_TEACHING_BUILDING" Name="LOC_DISTRICT_TEACHING_BUILDING_NAME" Description="LOC_DISTRICT_TEACHING_BUILDING_DESCRIPTION" PrereqTech="TECH_WRITING" PlunderType="PLUNDER_SCIENCE" PlunderAmount="25" AdvisorType="ADVISOR_TECHNOLOGY" Cost="54" CostProgressionModel="COST_PROGRESSION_NUM_UNDER_AVG_PLUS_TECH" CostProgressionParam1="40" Maintenance="1" RequiresPlacement="true" RequiresPopulation="true" Aqueduct="false" NoAdjacentCity="false" InternalOnly="false" ZOC="false" CaptureRemovesBuildings="false" CaptureRemovesCityDefenses="false" MilitaryDomain="NO_DOMAIN" CityStrengthModifier="2" TraitType="TRAIT_TEACHING_BUILDING"/>
+	</Districts>
+	<District_Adjacencies>
+		<Row DistrictType="DISTRICT_TEACHING_BUILDING" YieldChangeId="Mountains_Science1"/>
+		<Row DistrictType="DISTRICT_TEACHING_BUILDING" YieldChangeId="Mountains_Science2"/>
+		<Row DistrictType="DISTRICT_TEACHING_BUILDING" YieldChangeId="Mountains_Science3"/>
+		<Row DistrictType="DISTRICT_TEACHING_BUILDING" YieldChangeId="Mountains_Science4"/>
+		<Row DistrictType="DISTRICT_TEACHING_BUILDING" YieldChangeId="Mountains_Science5"/>
+		<Row DistrictType="DISTRICT_TEACHING_BUILDING" YieldChangeId="Jungle_Science"/>
+		<Row DistrictType="DISTRICT_TEACHING_BUILDING" YieldChangeId="District_Science"/>
+	</District_Adjacencies>
+	<District_GreatPersonPoints>
+		<Row DistrictType="DISTRICT_TEACHING_BUILDING" GreatPersonClassType="GREAT_PERSON_CLASS_SCIENTIST" PointsPerTurn="3"/>
+	</District_GreatPersonPoints>
+	<District_TradeRouteYields>
+		<Row DistrictType="DISTRICT_TEACHING_BUILDING" YieldType="YIELD_FOOD" YieldChangeAsOrigin="0" YieldChangeAsDomesticDestination="1" YieldChangeAsInternationalDestination="0"/>
+		<Row DistrictType="DISTRICT_TEACHING_BUILDING" YieldType="YIELD_SCIENCE" YieldChangeAsOrigin="0" YieldChangeAsDomesticDestination="0" YieldChangeAsInternationalDestination="1"/>
+	</District_TradeRouteYields>
+	<District_CitizenYieldChanges>
+		<Row DistrictType="DISTRICT_TEACHING_BUILDING" YieldType="YIELD_SCIENCE" YieldChange="3"/>
+		<Row DistrictType="DISTRICT_TEACHING_BUILDING" YieldType="YIELD_GOLD" YieldChange="1"/>
+	</District_CitizenYieldChanges>
+</GameData>

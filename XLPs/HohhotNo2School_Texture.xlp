@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="HohhotNo2School_Texture"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_HOHHOT_NO2_SCHOOL_128"/>
+			<m_ObjectName text="ICON_CIVILIZATION_HOHHOT_NO2_SCHOOL_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_HOHHOT_NO2_SCHOOL_200"/>
+			<m_ObjectName text="ICON_CIVILIZATION_HOHHOT_NO2_SCHOOL_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_HOHHOT_NO2_SCHOOL_22"/>
+			<m_ObjectName text="ICON_CIVILIZATION_HOHHOT_NO2_SCHOOL_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_HOHHOT_NO2_SCHOOL_256"/>
+			<m_ObjectName text="ICON_CIVILIZATION_HOHHOT_NO2_SCHOOL_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_HOHHOT_NO2_SCHOOL_30"/>
+			<m_ObjectName text="ICON_CIVILIZATION_HOHHOT_NO2_SCHOOL_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_HOHHOT_NO2_SCHOOL_32"/>
+			<m_ObjectName text="ICON_CIVILIZATION_HOHHOT_NO2_SCHOOL_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_HOHHOT_NO2_SCHOOL_36"/>
+			<m_ObjectName text="ICON_CIVILIZATION_HOHHOT_NO2_SCHOOL_36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_HOHHOT_NO2_SCHOOL_44"/>
+			<m_ObjectName text="ICON_CIVILIZATION_HOHHOT_NO2_SCHOOL_44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_HOHHOT_NO2_SCHOOL_45"/>
+			<m_ObjectName text="ICON_CIVILIZATION_HOHHOT_NO2_SCHOOL_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_HOHHOT_NO2_SCHOOL_48"/>
+			<m_ObjectName text="ICON_CIVILIZATION_HOHHOT_NO2_SCHOOL_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_HOHHOT_NO2_SCHOOL_50"/>
+			<m_ObjectName text="ICON_CIVILIZATION_HOHHOT_NO2_SCHOOL_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_HOHHOT_NO2_SCHOOL_64"/>
+			<m_ObjectName text="ICON_CIVILIZATION_HOHHOT_NO2_SCHOOL_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_HOHHOT_NO2_SCHOOL_80"/>
+			<m_ObjectName text="ICON_CIVILIZATION_HOHHOT_NO2_SCHOOL_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DIPLOMACY_INFO_LEADER_YUDIN_ZHOU_BACKGROUND_"/>
+			<m_ObjectName text="ICON_DIPLOMACY_INFO_LEADER_YUDIN_ZHOU_BACKGROUND_"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_LECTURE_HALL_128"/>
+			<m_ObjectName text="ICON_DISTRICT_LECTURE_HALL_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_LECTURE_HALL_22"/>
+			<m_ObjectName text="ICON_DISTRICT_LECTURE_HALL_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_LECTURE_HALL_256"/>
+			<m_ObjectName text="ICON_DISTRICT_LECTURE_HALL_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_LECTURE_HALL_32"/>
+			<m_ObjectName text="ICON_DISTRICT_LECTURE_HALL_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_LECTURE_HALL_38"/>
+			<m_ObjectName text="ICON_DISTRICT_LECTURE_HALL_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_LECTURE_HALL_50"/>
+			<m_ObjectName text="ICON_DISTRICT_LECTURE_HALL_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_LECTURE_HALL_80"/>
+			<m_ObjectName text="ICON_DISTRICT_LECTURE_HALL_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_TEACHING_BUILDING_128"/>
+			<m_ObjectName text="ICON_DISTRICT_TEACHING_BUILDING_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_TEACHING_BUILDING_22"/>
+			<m_ObjectName text="ICON_DISTRICT_TEACHING_BUILDING_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_TEACHING_BUILDING_256"/>
+			<m_ObjectName text="ICON_DISTRICT_TEACHING_BUILDING_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_TEACHING_BUILDING_32"/>
+			<m_ObjectName text="ICON_DISTRICT_TEACHING_BUILDING_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_TEACHING_BUILDING_38"/>
+			<m_ObjectName text="ICON_DISTRICT_TEACHING_BUILDING_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_TEACHING_BUILDING_50"/>
+			<m_ObjectName text="ICON_DISTRICT_TEACHING_BUILDING_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_DISTRICT_TEACHING_BUILDING_80"/>
+			<m_ObjectName text="ICON_DISTRICT_TEACHING_BUILDING_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_IMPROVEMENT_HONEST_SHOP_256"/>
+			<m_ObjectName text="ICON_IMPROVEMENT_HONEST_SHOP_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_IMPROVEMENT_HONEST_SHOP_38"/>
+			<m_ObjectName text="ICON_IMPROVEMENT_HONEST_SHOP_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_IMPROVEMENT_HONEST_SHOP_50"/>
+			<m_ObjectName text="ICON_IMPROVEMENT_HONEST_SHOP_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_IMPROVEMENT_HONEST_SHOP_80"/>
+			<m_ObjectName text="ICON_IMPROVEMENT_HONEST_SHOP_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_YUDIN_ZHOU_256"/>
+			<m_ObjectName text="ICON_LEADER_YUDIN_ZHOU_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_YUDIN_ZHOU_32"/>
+			<m_ObjectName text="ICON_LEADER_YUDIN_ZHOU_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_YUDIN_ZHOU_45"/>
+			<m_ObjectName text="ICON_LEADER_YUDIN_ZHOU_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_YUDIN_ZHOU_48"/>
+			<m_ObjectName text="ICON_LEADER_YUDIN_ZHOU_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_YUDIN_ZHOU_50"/>
+			<m_ObjectName text="ICON_LEADER_YUDIN_ZHOU_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_YUDIN_ZHOU_55"/>
+			<m_ObjectName text="ICON_LEADER_YUDIN_ZHOU_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_YUDIN_ZHOU_64"/>
+			<m_ObjectName text="ICON_LEADER_YUDIN_ZHOU_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_YUDIN_ZHOU_80"/>
+			<m_ObjectName text="ICON_LEADER_YUDIN_ZHOU_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_YUDIN_ZHOU_PORTRAIT_"/>
+			<m_ObjectName text="ICON_LEADER_YUDIN_ZHOU_PORTRAIT_"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_YUDIN_ZHOU_PORTRAIT_BACKGROUND_"/>
+			<m_ObjectName text="ICON_LEADER_YUDIN_ZHOU_PORTRAIT_BACKGROUND_"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LOADING_INFO_LEADER_YUDIN_ZHOU_BACKGROUND_"/>
+			<m_ObjectName text="ICON_LOADING_INFO_LEADER_YUDIN_ZHOU_BACKGROUND_"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_TRAIT_CIVILIZATION_ZHAOSHENG_128"/>
+			<m_ObjectName text="ICON_TRAIT_CIVILIZATION_ZHAOSHENG_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_TRAIT_CIVILIZATION_ZHAOSHENG_200"/>
+			<m_ObjectName text="ICON_TRAIT_CIVILIZATION_ZHAOSHENG_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_TRAIT_CIVILIZATION_ZHAOSHENG_22"/>
+			<m_ObjectName text="ICON_TRAIT_CIVILIZATION_ZHAOSHENG_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_TRAIT_CIVILIZATION_ZHAOSHENG_256"/>
+			<m_ObjectName text="ICON_TRAIT_CIVILIZATION_ZHAOSHENG_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_TRAIT_CIVILIZATION_ZHAOSHENG_30"/>
+			<m_ObjectName text="ICON_TRAIT_CIVILIZATION_ZHAOSHENG_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_TRAIT_CIVILIZATION_ZHAOSHENG_32"/>
+			<m_ObjectName text="ICON_TRAIT_CIVILIZATION_ZHAOSHENG_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_TRAIT_CIVILIZATION_ZHAOSHENG_36"/>
+			<m_ObjectName text="ICON_TRAIT_CIVILIZATION_ZHAOSHENG_36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_TRAIT_CIVILIZATION_ZHAOSHENG_44"/>
+			<m_ObjectName text="ICON_TRAIT_CIVILIZATION_ZHAOSHENG_44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_TRAIT_CIVILIZATION_ZHAOSHENG_45"/>
+			<m_ObjectName text="ICON_TRAIT_CIVILIZATION_ZHAOSHENG_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_TRAIT_CIVILIZATION_ZHAOSHENG_48"/>
+			<m_ObjectName text="ICON_TRAIT_CIVILIZATION_ZHAOSHENG_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_TRAIT_CIVILIZATION_ZHAOSHENG_50"/>
+			<m_ObjectName text="ICON_TRAIT_CIVILIZATION_ZHAOSHENG_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_TRAIT_CIVILIZATION_ZHAOSHENG_64"/>
+			<m_ObjectName text="ICON_TRAIT_CIVILIZATION_ZHAOSHENG_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_TRAIT_CIVILIZATION_ZHAOSHENG_80"/>
+			<m_ObjectName text="ICON_TRAIT_CIVILIZATION_ZHAOSHENG_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_TRAIT_LEADER_YUDIN_ZHOU_SPEECH_256"/>
+			<m_ObjectName text="ICON_TRAIT_LEADER_YUDIN_ZHOU_SPEECH_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_TRAIT_LEADER_YUDIN_ZHOU_SPEECH_32"/>
+			<m_ObjectName text="ICON_TRAIT_LEADER_YUDIN_ZHOU_SPEECH_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_TRAIT_LEADER_YUDIN_ZHOU_SPEECH_45"/>
+			<m_ObjectName text="ICON_TRAIT_LEADER_YUDIN_ZHOU_SPEECH_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_TRAIT_LEADER_YUDIN_ZHOU_SPEECH_48"/>
+			<m_ObjectName text="ICON_TRAIT_LEADER_YUDIN_ZHOU_SPEECH_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_TRAIT_LEADER_YUDIN_ZHOU_SPEECH_50"/>
+			<m_ObjectName text="ICON_TRAIT_LEADER_YUDIN_ZHOU_SPEECH_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_TRAIT_LEADER_YUDIN_ZHOU_SPEECH_55"/>
+			<m_ObjectName text="ICON_TRAIT_LEADER_YUDIN_ZHOU_SPEECH_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_TRAIT_LEADER_YUDIN_ZHOU_SPEECH_64"/>
+			<m_ObjectName text="ICON_TRAIT_LEADER_YUDIN_ZHOU_SPEECH_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_TRAIT_LEADER_YUDIN_ZHOU_SPEECH_80"/>
+			<m_ObjectName text="ICON_TRAIT_LEADER_YUDIN_ZHOU_SPEECH_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_FEN_CHEN_22"/>
+			<m_ObjectName text="ICON_UNIT_FEN_CHEN_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_FEN_CHEN_256"/>
+			<m_ObjectName text="ICON_UNIT_FEN_CHEN_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_FEN_CHEN_32"/>
+			<m_ObjectName text="ICON_UNIT_FEN_CHEN_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_FEN_CHEN_38"/>
+			<m_ObjectName text="ICON_UNIT_FEN_CHEN_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_FEN_CHEN_50"/>
+			<m_ObjectName text="ICON_UNIT_FEN_CHEN_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_FEN_CHEN_80"/>
+			<m_ObjectName text="ICON_UNIT_FEN_CHEN_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_FEN_CHEN_PORTRAIT_200"/>
+			<m_ObjectName text="ICON_UNIT_FEN_CHEN_PORTRAIT_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_FEN_CHEN_PORTRAIT_256"/>
+			<m_ObjectName text="ICON_UNIT_FEN_CHEN_PORTRAIT_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_FEN_CHEN_PORTRAIT_38"/>
+			<m_ObjectName text="ICON_UNIT_FEN_CHEN_PORTRAIT_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_FEN_CHEN_PORTRAIT_50"/>
+			<m_ObjectName text="ICON_UNIT_FEN_CHEN_PORTRAIT_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_FEN_CHEN_PORTRAIT_70"/>
+			<m_ObjectName text="ICON_UNIT_FEN_CHEN_PORTRAIT_70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_FEN_CHEN_PORTRAIT_95"/>
+			<m_ObjectName text="ICON_UNIT_FEN_CHEN_PORTRAIT_95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_LI_JIAN_22"/>
+			<m_ObjectName text="ICON_UNIT_LI_JIAN_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_LI_JIAN_256"/>
+			<m_ObjectName text="ICON_UNIT_LI_JIAN_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_LI_JIAN_32"/>
+			<m_ObjectName text="ICON_UNIT_LI_JIAN_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_LI_JIAN_38"/>
+			<m_ObjectName text="ICON_UNIT_LI_JIAN_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_LI_JIAN_50"/>
+			<m_ObjectName text="ICON_UNIT_LI_JIAN_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_LI_JIAN_80"/>
+			<m_ObjectName text="ICON_UNIT_LI_JIAN_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_LI_JIAN_PORTRAIT_200"/>
+			<m_ObjectName text="ICON_UNIT_LI_JIAN_PORTRAIT_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_LI_JIAN_PORTRAIT_256"/>
+			<m_ObjectName text="ICON_UNIT_LI_JIAN_PORTRAIT_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_LI_JIAN_PORTRAIT_38"/>
+			<m_ObjectName text="ICON_UNIT_LI_JIAN_PORTRAIT_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_LI_JIAN_PORTRAIT_50"/>
+			<m_ObjectName text="ICON_UNIT_LI_JIAN_PORTRAIT_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_LI_JIAN_PORTRAIT_70"/>
+			<m_ObjectName text="ICON_UNIT_LI_JIAN_PORTRAIT_70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_LI_JIAN_PORTRAIT_95"/>
+			<m_ObjectName text="ICON_UNIT_LI_JIAN_PORTRAIT_95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_LI_LIJUN_22"/>
+			<m_ObjectName text="ICON_UNIT_LI_LIJUN_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_LI_LIJUN_256"/>
+			<m_ObjectName text="ICON_UNIT_LI_LIJUN_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_LI_LIJUN_32"/>
+			<m_ObjectName text="ICON_UNIT_LI_LIJUN_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_LI_LIJUN_38"/>
+			<m_ObjectName text="ICON_UNIT_LI_LIJUN_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_LI_LIJUN_50"/>
+			<m_ObjectName text="ICON_UNIT_LI_LIJUN_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_LI_LIJUN_80"/>
+			<m_ObjectName text="ICON_UNIT_LI_LIJUN_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_LI_LIJUN_PORTRAIT_200"/>
+			<m_ObjectName text="ICON_UNIT_LI_LIJUN_PORTRAIT_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_LI_LIJUN_PORTRAIT_256"/>
+			<m_ObjectName text="ICON_UNIT_LI_LIJUN_PORTRAIT_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_LI_LIJUN_PORTRAIT_38"/>
+			<m_ObjectName text="ICON_UNIT_LI_LIJUN_PORTRAIT_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_LI_LIJUN_PORTRAIT_50"/>
+			<m_ObjectName text="ICON_UNIT_LI_LIJUN_PORTRAIT_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_LI_LIJUN_PORTRAIT_70"/>
+			<m_ObjectName text="ICON_UNIT_LI_LIJUN_PORTRAIT_70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_LI_LIJUN_PORTRAIT_95"/>
+			<m_ObjectName text="ICON_UNIT_LI_LIJUN_PORTRAIT_95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_SHI_WEI_22"/>
+			<m_ObjectName text="ICON_UNIT_SHI_WEI_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_SHI_WEI_256"/>
+			<m_ObjectName text="ICON_UNIT_SHI_WEI_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_SHI_WEI_32"/>
+			<m_ObjectName text="ICON_UNIT_SHI_WEI_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_SHI_WEI_38"/>
+			<m_ObjectName text="ICON_UNIT_SHI_WEI_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_SHI_WEI_50"/>
+			<m_ObjectName text="ICON_UNIT_SHI_WEI_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_SHI_WEI_80"/>
+			<m_ObjectName text="ICON_UNIT_SHI_WEI_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_SHI_WEI_PORTRAIT_200"/>
+			<m_ObjectName text="ICON_UNIT_SHI_WEI_PORTRAIT_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_SHI_WEI_PORTRAIT_256"/>
+			<m_ObjectName text="ICON_UNIT_SHI_WEI_PORTRAIT_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_SHI_WEI_PORTRAIT_38"/>
+			<m_ObjectName text="ICON_UNIT_SHI_WEI_PORTRAIT_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_SHI_WEI_PORTRAIT_50"/>
+			<m_ObjectName text="ICON_UNIT_SHI_WEI_PORTRAIT_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_SHI_WEI_PORTRAIT_70"/>
+			<m_ObjectName text="ICON_UNIT_SHI_WEI_PORTRAIT_70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_SHI_WEI_PORTRAIT_95"/>
+			<m_ObjectName text="ICON_UNIT_SHI_WEI_PORTRAIT_95"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+		<Element>LINUX</Element>
+		<Element>XBONE</Element>
+		<Element>PS4</Element>
+		<Element>SWITCH</Element>
+		<Element>STADIA</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+
